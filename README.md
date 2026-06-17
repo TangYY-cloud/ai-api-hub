@@ -40,6 +40,3 @@
 ---
 
 *Made with ❤️ by Tyy 
-```
-
-复制 → 去 GitHub 点 ✏️ 编辑 → 全部替换 → Commit！搞定了告诉我 🚀🐱
