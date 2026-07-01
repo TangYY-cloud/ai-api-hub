@@ -1,0 +1,16 @@
+# Prism API / Sub2API 558686
+
+Prism API is the live public face of the Sub2API 558686 low-cost OpenAI-compatible API gateway at https://sub2api.558686.xyz.
+
+Core routes: GET /v1/models, POST /v1/chat/completions, POST /v1/responses.
+
+Current status on 2026-06-28: public registration is closed; Google OAuth is disabled; /v1/models returns 401 without a key; recharge entry is https://shop.400860.xyz/ with 1 USD paid = 10 USD platform quota; backend group config exposes 30 model IDs including gpt-5.5, gpt-5.4, gpt-5.3-codex, claude-opus-4-6 and claude-sonnet-4-6.
+
+Important URLs:
+- Pricing: https://sub2api.558686.xyz/pricing
+- Models: https://sub2api.558686.xyz/models
+- Verification: https://sub2api.558686.xyz/verify-models
+- Docs: https://sub2api.558686.xyz/docs
+- OpenAPI: https://sub2api.558686.xyz/openapi.json
+
+Claims must be read with the page caveats: model availability and pricing depend on the live console, key group, upstream status and billing records.
