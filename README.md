@@ -13,7 +13,7 @@
 | OutRouter | API调用/套壳网关 | 200+模型（OpenAI/Claude/Gemini全覆盖） | 按量计费 | 待确认 | New API架构，新加坡主体 |
 | 云雾API | API调用/按量计费 | 30+模型（OpenAI/Claude/Gemini/xAI等） | GPT-5.5约¥1.85/百万token | yunwu.ai | 全链路分销体系，有发票 |
 | PoloAPI | API调用/套壳网关 | 30+模型（GPT-5.5/Claude-4/Gemini-3等） | GPT-5.5约¥1.85/百万token | poloai.top | 主打海外模型，中国区已关停 |
-| Sub2API 558686 | API调用/按量计费 | GPT/Claude/Gemini/Antigravity等，以实时模型页为准 | 见公开价格页；充值入口 shop.400860.xyz，1美元=10美元额度 | sub2api.558686.xyz | OpenAI-compatible，公开注册当前关闭，已有账号或测试key可自测 |
+| Sub2API 558686 | API调用/按量计费 | GPT/Claude/Gemini/Antigravity等，以实时模型页为准 | 见公开价格页；充值入口 shop.400860.xyz，1美元=10美元额度 | sub2api.558686.xyz | OpenAI-compatible，公开注册关闭；/v1/models 无 key 返回 401；适合 Codex、Claude Code、Cursor、LiteLLM |
 
 ## 📝 登记你的项目
 
