@@ -15,6 +15,7 @@
 | PoloAPI | API调用/套壳网关 | 30+模型（GPT-5.5/Claude-4/Gemini-3等） | GPT-5.5约¥1.85/百万token | poloai.top | 主打海外模型，中国区已关停 |
 | Tokens Forge | API调用/按量计费 | GPT / Claude / Gemini / 普通路由模型 | 官方 Credit 与普通路由钱包分开计费 | tokens-forge.com | OpenAI 兼容接口，支持 API Key、用量账本、模型路由和 AI 研究员工作流 |
 | cocodot | API调用/按量计费 | Claude / GPT / Gemini / DeepSeek（OpenAI + Anthropic 双兼容） | 按量计费，海外主流从官网9折起 | cocodot.co | 支付宝直充；支持 Claude Code 直连；不降智可用开源 LLMprobe 自测（实测 87/100） |
+| [JiuRelay](https://jiurelay.com/) | OpenAI/Anthropic 兼容 | GPT + Claude + GLM | 免费 1 小时 Key + 付费 | 无需注册，设备验证即领_key，对话不落库 |
 
 ## 📝 登记你的项目
 
